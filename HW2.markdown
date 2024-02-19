@@ -26,11 +26,11 @@ This is a paragraph
 
 Before the table, there should be a blank line.
 
-| Command    | Description                                     |
-|------------|-------------------------------------------------|
-| git add    | Stage changes for commit                        |
-| git commit | Record changes to the repository                |
-| git push   | Upload local repository content to a remote repository |
+| Command    | Description                                                 |
+|------------|-------------------------------------------------------------|
+| git add    | Stage changes for commit                                    |
+| git commit | Record changes to the repository                            |
+| git push   | Upload local repository content to a remote repository      |
 
 
 This is a goute
