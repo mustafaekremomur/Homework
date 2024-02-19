@@ -35,5 +35,5 @@ Before the table, there should be a blank line.
 
 > This is a guote
 
-[Google](https://www.google.com/)
+[This is a link to google](https://www.google.com/)
 
